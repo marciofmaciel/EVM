@@ -1,0 +1,9 @@
+streamlit==1.30.0
+pillow==10.2.0
+streamlit-drawable-canvas
+numpy==1.24.3
+scipy==1.11.4
+opencv-python-headless==4.8.1.78
+matplotlib==3.8.2
+pandas==2.1.4
+pillow==10.2.0
